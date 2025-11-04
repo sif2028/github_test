@@ -1,5 +1,5 @@
-int ledPin = 13;
-int ledPin2 = 14;
+int ledPin = 29;
+int ledPin2 = 30;
 
 void setup() {
   pinMode(ledPin, OUTPUT);
